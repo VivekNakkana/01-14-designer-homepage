@@ -11,7 +11,7 @@
 
 ### Time taken: 7 hours.
 
-### [Live Link]()
+### [Live Link](https://14-designer-homepage-vivekn.netlify.app/)
 
 ### Quick Look:
-![img](./Assets/screencapture-127-0-0-1-5500-index-html-2022-08-01-22_21_47.png)
+![img](./Assets/QuickLook.png)
